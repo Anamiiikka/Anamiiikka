@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👩‍💻 Anamika Singh – Full Stack Web Developer
 
-<!--
-**Anamiiikka/Anamiiikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 About Me
+- 💻 Full Stack Web Developer skilled in building dynamic, responsive web applications.
+- 🚀 Proficient in the **MERN stack** – MongoDB, Express.js, React, and Node.js.
+- 🧠 Actively practicing **Data Structures & Algorithms** to boost problem-solving skills.
+- 🎯 Passionate about clean code, great UI/UX, and continuous learning.
 
-Here are some ideas to get you started:
+- ## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anamika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anamiiikka&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anamiiikka&layout=compact&theme=tokyonight)
