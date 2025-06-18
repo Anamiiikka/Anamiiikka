@@ -10,7 +10,6 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on **full-stack web apps using the MERN stack**
-- 🌱 I’m currently learning **Advanced DSA**, **System Design**, and **WebSockets**
 - 👯 I’m looking to collaborate on **real-world projects, open-source, and hackathons**
 - 💬 Ask me about **React, Node.js, MongoDB, and Coding Patterns**
 
