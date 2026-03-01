@@ -1,38 +1,47 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anamika%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Anamika+Singh;Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;DSA+Practitioner+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Anamika+Singh;Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;DSA+Practitioner+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Anamiiikka&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Anamiiikka?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Anamiiikka&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Anamiiikka?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
 
 </div>
 
 ---
 
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anamiiikka/Anamiiikka/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anamiiikka/Anamiiikka/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anamiiikka/Anamiiikka/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+---
+
 ## 🧑‍💻 About Me
 
-```javascript
-const anamika = {
-  name: "Anamika Singh",
-  role: "Full Stack Web Developer",
-  location: "India 🇮🇳",
-  currentFocus: ["MERN Stack Apps", "DSA Practice", "Open Source"],
-  askMeAbout: ["React", "Node.js", "MongoDB", "Coding Patterns"],
-  lookingFor: "Real-world projects, open-source & hackathons",
-  funFact: "I debug with console.log and I'm proud of it 😄"
-};
-```
+<img align="right" alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+<br/>
+
+- 🔭 &nbsp; I'm currently building **full-stack web apps using the MERN stack**
+- 🤝 &nbsp; Looking to collaborate on **real-world projects, open-source & hackathons**
+- 💬 &nbsp; Ask me about &nbsp; <img src="https://skillicons.dev/icons?i=react&theme=dark" width="20" style="vertical-align:middle"/> **React** &nbsp; <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="20" style="vertical-align:middle"/> **Node.js** &nbsp; <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="20" style="vertical-align:middle"/> **MongoDB**
+- 🧠 &nbsp; Currently grinding **DSA** to sharpen problem-solving skills
+- 🌱 &nbsp; Always learning, always building
+- ⚡ &nbsp; Fun fact: I debug with `console.log` and I'm proud of it 😄
+
+<br/><br/>
+
+### 🔧 Tech I work with daily:
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github,vscode,postman,vercel&perline=7&theme=dark" />
+
+<br/>
 
 ---
 
@@ -86,7 +95,7 @@ const anamika = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anamiiikka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anamiiikka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2"/>
 </div>
 
 ---
@@ -131,6 +140,9 @@ const anamika = {
 
 ### 💭 Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
 </div>
 
