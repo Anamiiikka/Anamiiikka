@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/Anamiiikka/Anamiiikka/main/girl-coding.gif"/>
 
 <br/>
 
@@ -35,7 +35,7 @@
 - 🌱 &nbsp; Always learning, always building
 - ⚡ &nbsp; Fun fact: I debug with `console.log` and I'm proud of it 😄
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 ### 🔧 Tech I work with daily:
 
@@ -92,14 +92,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anamiiikka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -140,9 +132,6 @@
 
 ### 💭 Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
 </div>
 
